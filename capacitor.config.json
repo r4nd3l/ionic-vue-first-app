@@ -1,0 +1,13 @@
+{
+  "appId": "io.github.r4nd3l",
+  "appName": "VueMemories",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "public",
+  "plugins": {
+    "SplashScreen": {
+      "launchShowDuration": 0
+    }
+  },
+  "cordobva": {}
+}

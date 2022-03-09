@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">VueMemories</string>
+    <string name="title_activity_main">VueMemories</string>
+    <string name="package_name">io.github.r4nd3l</string>
+    <string name="custom_url_scheme">io.github.r4nd3l</string>
+</resources>
